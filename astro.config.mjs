@@ -3,6 +3,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://<USERNAME>.github.io',
-  base: '/<REPO-NAME>',
+  site: 'https://DORONDAH.github.io',
+  base: '/my-astro-site',
 });
